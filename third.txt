@@ -1,1 +1,3 @@
 third file added after the first commit from smartgit
+
+this line represents the changes that were made from github online editor
