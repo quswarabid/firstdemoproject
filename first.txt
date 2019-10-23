@@ -3,3 +3,5 @@ hello world
 how are you?
 
 changes from the online editor ...
+
+welcome some changes from smartgit
