@@ -1,0 +1,1 @@
+third file added after the first commit from smartgit
